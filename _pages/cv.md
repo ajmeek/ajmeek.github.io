@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of North Texas, 2022
+* B.A. in Philosophy, University of North Texas, 2022
+* B.A. in Japanese, University of North Texas, 2022
+* M.S. in Computer Science, University of Delaware, 2024 (expected)
+* Ph.D in Computer Science, University of Delaware, 2027 (expected)
 
 Work experience
 ======
