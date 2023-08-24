@@ -11,23 +11,37 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Computer Science, University of Delaware, 2027 (expected)
+* M.S. in Computer Science, University of Delaware, 2024 (expected)
 * B.S. in Computer Science, University of North Texas, 2022
 * B.A. in Philosophy, University of North Texas, 2022
 * B.A. in Japanese, University of North Texas, 2022
-* M.S. in Computer Science, University of Delaware, 2024 (expected)
-* Ph.D in Computer Science, University of Delaware, 2027 (expected)
 
-Work experience
+Work experience (by name of org, or by position title? chronological either way)
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant
+  * Computational Neural Information Engineering Lab, University of Delaware, Newark, Delaware
+* Supporting Technical Writer
+  * Fund for Alignment Research (FAR)
+* Instructor
+  * Computer and Information Sciences, University of Delaware, Newark, Delaware
+* Teaching Assistant
+  * Computer and Information Sciences, University of Delaware, Newark, Delaware
+* Software Engineering Intern
+  * Lockheed Martin, Ft. Worth, Texas
+* Undergraduate RA
+  * Biomedical AI Lab, University of North Texas, Denton, Texas
+  * Lab for Accelerated Computer Architectures (LARC), University of North Texas, Denton, Texas
+* Flight Software Intern
+  * Advanced Space, Boulder Colorado
+* Undergraduate TA
+  * Japanese Department, University of North Texas, Denton, Texas
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* University of Delaware, Newark, Delaware
+* Lockheed Martin, Ft. Worth, Texas
+* Advanced Space, Boulder, Colorado
+* University of North Texas, Denton, Texas
+
   
 Skills
 ======
