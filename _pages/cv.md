@@ -19,22 +19,22 @@ Education
 
 Work experience (by name of org, or by position title? chronological either way)
 ======
-* Research Assistant
+* **Research Assistant**
   * Computational Neural Information Engineering Lab, University of Delaware, Newark, Delaware
-* Supporting Technical Writer
+* **Supporting Technical Writer, Independent Contractor**
   * Fund for Alignment Research (FAR)
-* Instructor
+* **Instructor**
   * Computer and Information Sciences, University of Delaware, Newark, Delaware
-* Teaching Assistant
+* **Teaching Assistant**
   * Computer and Information Sciences, University of Delaware, Newark, Delaware
-* Software Engineering Intern
+* **Software Engineering Intern**
   * Lockheed Martin, Ft. Worth, Texas
-* Undergraduate RA
+* **Undergraduate RA**
   * Biomedical AI Lab, University of North Texas, Denton, Texas
   * Lab for Accelerated Computer Architectures (LARC), University of North Texas, Denton, Texas
-* Flight Software Intern
+* **Flight Software Intern**
   * Advanced Space, Boulder Colorado
-* Undergraduate TA
+* **Undergraduate TA**
   * Japanese Department, University of North Texas, Denton, Texas
 
 * University of Delaware, Newark, Delaware
@@ -72,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Founder and current President of DAIA - Delaware AI Alignment
