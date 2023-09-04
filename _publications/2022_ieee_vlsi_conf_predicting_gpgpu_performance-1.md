@@ -2,7 +2,7 @@
 title: "Predicting GPU Performance and System Parameter Configuration Using Machine Learning"
 collection: publications
 permalink: /publication/2022_ieee_vlsi_conf_predicting_gpgpu_performance
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper uses several ML techniques to predict performance and system configurations of GPGPUs.'
 date: 2022
 venue: 'IEEE Computer Society Annual Symposium on VLSI (ISVLSI)'
 paperurl: 'http://academicpages.github.io/files/2022_ieee_vlsi_conf_predicting_gpgpu_performance.pdf'
