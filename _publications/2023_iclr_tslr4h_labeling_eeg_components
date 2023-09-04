@@ -1,0 +1,23 @@
+---
+title: "Labeling EEG Components with a Bag of Waveforms from Learned Dictionaries"
+collection: publications
+permalink: /publication/2023_iclr_tslr4h_labeling_eeg_components
+excerpt: 'This paper is about EEG denoising and classification using NLP techniques and independent components.'
+date: 2010-10-01
+venue: 'ICLR 2023 Time Series Learning for Health (TSLR4H) Workshop'
+paperurl: 'http://academicpages.github.io/files/2023_iclr_tslr4h_labeling_eeg_components.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+This paper is about EEG denoising and classification using NLP techniques and independent components. We learn representative waveforms, build codebooks from them, and then use the bag-of-waves (bag of words) representation for classification.
+
+[Download paper here](http://academicpages.github.io/files/2023_iclr_tslr4h_labeling_eeg_components.pdf)
+
+Recommended citation: 
+@inproceedings{
+mendoza-cardenas2023labeling,
+title={Labeling {EEG} Components with a Bag of Waveforms from Learned Dictionaries},
+author={Carlos H Mendoza-Cardenas and Austin Meek and Austin J. Brockmeier},
+booktitle={ICLR 2023 Workshop on Time Series Representation Learning for Health},
+year={2023},
+url={https://openreview.net/forum?id=i8zQLneFvn}
+}
