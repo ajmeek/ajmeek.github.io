@@ -83,7 +83,7 @@ author:
   name             : "Austin Meek"
   avatar           : "test_pfp.jpg"
   bio              : "MATS Scholar, 7.0 + Extension / ML PhD Student"
-  location         : "Newark, Delaware"
+  location         : # "Newark, Delaware"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=H_kdooIAAAAJ&hl=en"
