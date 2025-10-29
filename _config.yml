@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Austin Meek"
   avatar           : "profile.png"
-  bio              : "2nd year PhD Student in CS at the University of Delaware. Interested in AI and Neuroscience for AI Alignment and X-risk reduction"
+  bio              : "MATS Scholar, 7.0 + Extension / ML PhD Student"
   location         : "Newark, Delaware"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=H_kdooIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/austinmeek/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
